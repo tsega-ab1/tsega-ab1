@@ -7,9 +7,6 @@ I'd be happy to receive any **feedback** or **code reviews** that can help me im
 
 ⭐ Feel free to **follow me**, I really appreciate your support!
 
-<p align="center">
-  <img src="kraken.jpg" alt="Kraken coding with coffee" width="600">
-</p>
 
 ## 🌐 Let's connect
 

@@ -1,4 +1,4 @@
-#Hey, I'm Tsega 👋
+# Hey, I'm Tsega 👋
 
 🐙 A developer, designer, and curious mind who loves turning ideas into reality.
 
